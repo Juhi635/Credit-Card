@@ -1,14 +1,12 @@
-# Credit Card
-
-This project presents an elegant credit card representation crafted using HTML and CSS.
+# **💳 Credit Card**
 
 ## Overview
 
-The representation of a credit card is ubiquitous in digital platforms, especially in e-commerce websites where users interact with payment gateways. This project showcases a visually appealing and functional credit card interface created entirely through HTML and CSS.
+The project presents an elegant credit card representation crafted using HTML and CSS.
 
 ## Live Demo
 
-Explore the live demo of the credit card representation https://credit-card-juhi.vercel.app/
+Explore the live demo of the credit card representation ➡️ https://credit-card-juhi.vercel.app/
 
 ## Key Features
 
@@ -18,4 +16,4 @@ Explore the live demo of the credit card representation https://credit-card-juhi
 
 ## Credits
 
-This project is hosted on https://vercel.com/ .
+This project is hosted on https://vercel.com/ 🌐
